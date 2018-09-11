@@ -559,6 +559,26 @@ article {
     color: #1da1f2;
 }
 
+.linkedin {
+    max-width: 800px;
+    font-weight: 200;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: -30px auto 40px auto;
+    text-align: center;
+}
+
 
 /*        Footer
 ------------------------------------*/
