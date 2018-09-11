@@ -509,7 +509,7 @@ article {
     width: 200px;
     height: 200px;
     margin: 30px auto;
-    background-image: url("img/myimg.png");
+    background-image: url("../img/myimg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
